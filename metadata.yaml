@@ -1,0 +1,24 @@
+_repo: The-Fight-for-the-Argonne--Personal-Experiences-of-a-Y-Man_28060
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: West, William Benjamin
+    gutenberg_agent_id: '33113'
+    url: http://www.gutenberg.org/2009/agents/33113
+description: ''
+gutenberg_issued: '2009-02-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28060'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Personal narratives'
+title: 'The Fight for the Argonne: Personal Experiences of a ''Y'' Man'
+url: http://www.gutenberg.org/ebooks/28060
